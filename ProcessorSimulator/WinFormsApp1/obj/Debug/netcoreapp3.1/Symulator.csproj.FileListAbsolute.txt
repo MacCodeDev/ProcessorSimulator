@@ -1,0 +1,81 @@
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.exe
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.deps.json
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.json
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.dev.json
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.Properties.Resources.resources
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.GenerateResource.cache
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfoInputs.cache
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfo.cs
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.CoreCompileInputs.cache
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.genruntimeconfig.cache
+C:\Users\KneXH\Desktop\coś\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csprojAssemblyReference.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.exe
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.deps.json
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.json
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.dev.json
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csprojAssemblyReference.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.Properties.Resources.resources
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.GenerateResource.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfoInputs.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfo.cs
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.CoreCompileInputs.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\KneXH\Desktop\Maciej Jarmuła Pojekt\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.genruntimeconfig.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.exe
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.deps.json
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.json
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.dev.json
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csprojAssemblyReference.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.Properties.Resources.resources
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.GenerateResource.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfoInputs.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfo.cs
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.CoreCompileInputs.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.genruntimeconfig.cache
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.exe
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.deps.json
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.json
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.dev.json
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.dll
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.pdb
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csprojAssemblyReference.cache
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.Properties.Resources.resources
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.GenerateResource.cache
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfoInputs.cache
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfo.cs
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.CoreCompileInputs.cache
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.dll
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.pdb
+X:\Maciej Jarmuła Symulator\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.genruntimeconfig.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.exe
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.deps.json
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.json
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.dev.json
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\bin\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.AssemblyReference.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.Properties.Resources.resources
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.GenerateResource.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfoInputs.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfo.cs
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.csproj.CoreCompileInputs.cache
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\KneXH\Desktop\Maciej Jarmuła Symulator\WinFormsApp1\obj\Debug\netcoreapp3.1\Symulator.genruntimeconfig.cache
